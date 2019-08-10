@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3153157-aad3-4c19-9f25-a9a7936233b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/hotswap_agent.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/arkham/knight/practica12/spring/models/Device.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/arkham/knight/practica12/spring/models/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/arkham/knight/practica12/spring/repository/DeviceRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/arkham/knight/practica12/spring/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/arkham/knight/practica12/spring/services/DeviceService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/arkham/knight/practica12/spring/services/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arkham/knight/practica12/spring/MainView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arkham/knight/practica12/spring/MainView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/arkham/knight/practica12/spring/MainView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/arkham/knight/practica12/spring/MainView.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,7 +14,29 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/arkham/knight/practica12/spring/services/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/arkham/knight/practica12/spring/MainView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -45,6 +60,7 @@
         <option value="$PROJECT_DIR$/src/main/java/arkham/knight/practica12/spring/models/Device.java" />
         <option value="$PROJECT_DIR$/src/main/java/arkham/knight/practica12/spring/repository/DeviceRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/arkham/knight/practica12/spring/services/DeviceService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/arkham/knight/practica12/spring/MainView.java" />
       </list>
     </option>
   </component>
@@ -69,7 +85,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -106,13 +122,22 @@
             <path>
               <item name="practica-12" type="b2602c69:ProjectViewProjectNode" />
               <item name="arkham-knight-practica12" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practica-12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arkham-knight-practica12" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -160,16 +185,20 @@
       <updated>1562378011963</updated>
       <workItem from="1562378014494" duration="863000" />
       <workItem from="1562379249652" duration="2328000" />
+      <workItem from="1562446808839" duration="653000" />
+      <workItem from="1563025858447" duration="797000" />
+      <workItem from="1564021662815" duration="586000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3191000" />
+    <option name="totallyTimeSpent" value="5227000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21104388" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25869894" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -179,7 +208,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32820514" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -208,13 +237,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/arkham/knight/practica12/spring/MainView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="409">
@@ -268,16 +290,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/arkham/knight/practica12/spring/services/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="639">
-          <caret line="35" column="5" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="35" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/arkham/knight/practica12/spring/repository/UserRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -305,6 +317,23 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/arkham/knight/practica12/spring/services/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/arkham/knight/practica12/spring/MainView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
